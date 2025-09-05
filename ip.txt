@@ -1,1 +1,1 @@
-Test:192.168.100.235:14444:0:0,Hoa quả:nso.tranduc1710.com:14444:0:0
+Test:192.168.100.235:14444:0:0,Hoa quả:nso.tranduc1710.com:80:0:0
